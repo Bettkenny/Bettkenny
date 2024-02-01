@@ -1,4 +1,7 @@
 ### Hi there 👋
+I"m Kennedy Bett from Nairobi-Kenya, and I am a proficient FullStack Developer with strong foundation in both front-end and back-end technologies.On the front end, I am an expert in creating responsive and user-friendly interfaces using modern frameworks like React and Angular. My expertise extends to designing visually appealing and intuitive user experiences. 
+On the back end, I am skilled in building robust server-side applications, utilizing technologies such as Node.js Flask and Django. I am proficient in database management, employing both SQL and NoSQL databases to ensure efficient data storage and retrieval.
+I am passionate about continuously enhancing my skills and contributing to the success of projects through innovative problem-solving and a commitment to delivering high-quality code.
 
 <!--
 **Bettkenny/Bettkenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
